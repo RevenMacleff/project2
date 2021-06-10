@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,AAAC,CACH,KAAK,CAAE,OAAO,CACd,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,GAAG,CAChB,UAAU,CAAE,MAAM,CAClB,cAAc,CAAE,SAAS,CAM5B,AALI,AAAD,WAAM,AAAC,CACH,KAAK,CAAE,IAAI,CACX,SAAS,CAAE,IAAI,CACf,UAAU,CAAE,IAAI,CACnB",
+    "sources": [
+        "../blocks/titles.scss"
+    ],
+    "names": [],
+    "file": "titles.min.css"
+}
